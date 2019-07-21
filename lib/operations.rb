@@ -6,7 +6,6 @@ if speed < 40
 else
   "false"
   end
-end
 
 
 
