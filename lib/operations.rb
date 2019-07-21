@@ -7,7 +7,7 @@ else
   return "false"
   end
 end
-unsafe?(40)
+
 
 def not_safe?(speed)
 	   
